@@ -1,0 +1,3 @@
+repository "GiraffeDrawing@local"
+  path "/"
+    smartbranch "/main/art_only"
