@@ -5,13 +5,14 @@
 - 다른 폴더(Scripts, Scenes 등)는 절대 수정하지 마세요
 
 ## 작업 방법
-1. GitHub Desktop에서 `artist-assets` 브랜치 선택
-2. Unity 에디터 열기
-3. Project 창에서 Assets/Textures/ 폴더에 파일 드래그앤드롭
-4. 저장 후 GitHub Desktop으로 돌아가기
-5. 변경사항 확인 후 Commit 메시지 작성
-6. "Commit to artist-assets" 클릭
-7. "Push origin" 클릭
+1. GitHub Desktop 열기
+2. "Fetch origin" 클릭 (최신 버전 받기)
+3. Unity 에디터 열기
+4. Project 창에서 Assets/Textures/ 폴더에 파일 드래그앤드롭
+5. 저장 후 GitHub Desktop으로 돌아가기
+6. 변경사항 확인 후 Commit 메시지 작성
+7. "Commit to main" 클릭
+8. "Push origin" 클릭
 
 ## 주의사항
 - 항상 작업 전 "Fetch origin" 먼저 클릭!
@@ -29,13 +30,6 @@
   - ✅ ui_button_start.png
   - ❌ 캐릭터_메인.png
   - ❌ 배경 숲.png
-
-## Pull Request 만들기
-1. GitHub Desktop에서 Push 완료 후
-2. 상단에 "Create Pull Request" 버튼 클릭
-3. 제목과 설명 작성
-4. "Create pull request" 클릭
-5. 프로그래머가 리뷰 후 Merge 합니다
 
 ## 문제 발생 시
 - 프로그래머에게 연락하세요
